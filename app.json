@@ -14,11 +14,6 @@
       "description": "Get this value from my.telegram.org",
       "value": ""
     },
-    "RCLONE_CONFIG_BASE64": {
-        "description": "Your Rclone config encoded using Base64",
-        "required": false
-      }
-    },
     "AUTH_USERS": {
       "description": "Username or ID of users to give access of the bot, Separate multiple users by space.",
       "value": ""
@@ -32,6 +27,5 @@
       "quantity": 1,
       "size": "free"
     }
-    ]
   }
-
+}
